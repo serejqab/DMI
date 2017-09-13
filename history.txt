@@ -1,0 +1,1000 @@
+ 1046  gcc 41.c
+ 1047  nano 41.c
+ 1048  gcc 41.c
+ 1049  ./a.out
+ 1050  nano 41.c
+ 1051  gcc 41.c
+ 1052  nano 41.c
+ 1053  gcc 41.c
+ 1054  ./a.out
+ 1055  nano 41.c
+ 1056  gcc 41.c
+ 1057  ./a.out
+ 1058  nano 41.c
+ 1059  gcc 41.c
+ 1060  ./a.out
+ 1061  nano 41.c
+ 1062  gcc 41.c
+ 1063  nano 41.c
+ 1064  gcc 41.c
+ 1065  ./a.out
+ 1066  nano 41.c
+ 1067  gcc 41.c
+ 1068  ./a.out
+ 1069  nano 41.c
+ 1070  gcc 41.c
+ 1071  ./a.out
+ 1072  nano 41.c
+ 1073  gcc 41.c
+ 1074  nano 41.c
+ 1075  gcc 41.c
+ 1076  ./a.out
+ 1077  nano 41.c
+ 1078  gcc 41.c
+ 1079  idle
+ 1080  gnuplot
+ 1081  nano 123.c
+ 1082  nano dif.dat
+ 1083  gcc.c
+ 1084  gcc.c dif.dat
+ 1085  pyhton
+ 1086  pyhton 1.py
+ 1087  idle
+ 1088  python 1.py > "dif.dat"
+ 1089  gnuplot
+ 1090  idle
+ 1091  ls -?
+ 1092  ls --help
+ 1093  ls -l
+ 1094  date
+ 1095  date 1991.10
+ 1096  calendar
+ 1097  calendar --help
+ 1098  calendar -help
+ 1099  calendar [[10]1991]
+ 1100  calendar -t [[10]1991]
+ 1101  calendar -t 1991 10
+ 1102  calendar -t [1991] [10]
+ 1103  calendar -t [[1991][10]]
+ 1104  month
+ 1105  cal -m [[10]1991]
+ 1106  cal -m [[10] 1991]
+ 1107  cal -m [[10] 1991 ]
+ 1108  cal -m [10] 1991 
+ 1109  cal -m 10 1991 
+ 1110  cal 10 1991 
+ 1111  cal -m 10 1991 
+ 1112  ls
+ 1113  ls -a
+ 1114  ls *
+ 1115  ls -l
+ 1116  ls -A
+ 1117  ls -d
+ 1118  man ls
+ 1119  ls -1
+ 1120  ls -a-1
+ 1121  ls -a1
+ 1122  ls -la
+ 1123  pwd
+ 1124  cs/
+ 1125  cs /
+ 1126  cd 
+ 1127  pwd
+ 1128  cd ..
+ 1129  pwd
+ 1130  list
+ 1131  lst
+ 1132  ls
+ 1133  cd usr
+ 1134  ls
+ 1135  cd ..
+ 1136  cd home
+ 1137  ls
+ 1138  cd user
+ 1139  ls
+ 1140  gedit spele.py
+ 1141  cd Desktop
+ 1142  ls
+ 1143  cd..
+ 1144  cd ..
+ 1145  bash ?
+ 1146  /bash help
+ 1147  /bash ?
+ 1148  bash help
+ 1149  PS1="$ "
+ 1150  /n
+ 1151  talk
+ 1152  CC
+ 1153  python
+ 1154  echo hello
+ 1155  python
+ 1156  ls
+ 1157  python
+ 1158  ls
+ 1159  mkdir STOPITPLS
+ 1160  cd STOPITPLS
+ 1161  ls
+ 1162  pwd
+ 1163  getrekt.py
+ 1164  vi getrekt.py
+ 1165  python
+ 1166  python getrekt.py
+ 1167  ls
+ 1168  pwd
+ 1169  python -c getrekt.py
+ 1170  echo -n "" > ./getrekt.py
+ 1171  ls
+ 1172  python getrekt.py
+ 1173  python
+ 1174  ipython
+ 1175  IPython
+ 1176  ipython
+ 1177  idle
+ 1178  idle ipython
+ 1179  firefox
+ 1180  ssh -X 161REB140@213.175.92.22
+ 1181  ssh -X x161REB140@213.175.92.22
+ 1182  firefox
+ 1183  ssh -X x161REB201@213.175.92.22
+ 1184  ssh -X x161REB201@213.175.92.22
+ 1185  ssh -X x161REB201@213.175.92.22
+ 1186  virtualbox 
+ 1187  idle
+ 1188  idle &
+ 1189  ls-l
+ 1190  ls -l
+ 1191  cat dg 17
+ 1192  cat dg 17.y
+ 1193  cat dg 16.y
+ 1194  cat 17.py
+ 1195  cat dg16.py
+ 1196  cat dg17.py
+ 1197  cat dg16.py
+ 1198  idle &
+ 1199  ls -l 
+ 1200  cat SKRIPTS_1.py
+ 1201  nano SKRIPTS_1.py
+ 1202  cat SKRIPTS_1.py
+ 1203  python SKRIPTS_1.py
+ 1204  ls -l SKRIPTS_1.py
+ 1205  nano SKRIPTS_1.py
+ 1206  chmod 755 SKRIPTS_1.py
+ 1207  ls -l SKRIPTS_1.py
+ 1208  ./SKRIPTS_1.py
+ 1209  idle &
+ 1210  virtualbox
+ 1211  quit
+ 1212  ssh -X x161REB053
+ 1213  ssh -X x161REB053@213.175.92.22
+ 1214  idle
+ 1215  gnuplot
+ 1216  firefox
+ 1217  ssh -X x161REB140@213.175.82.22
+ 1218  ssh -X x161REB140@213.175.92.22
+ 1219  firefox
+ 1220  gnuplot
+ 1221  gunplot
+ 1222  gnuplot
+ 1223  gnuplo
+ 1224  t
+ 1225  gnuplot
+ 1226  ls
+ 1227  python 170.py
+ 1228  python
+ 1229  ipython
+ 1230  idle
+ 1231  python 12121.py 
+ 1232  ipython
+ 1233  python 170.py 
+ 1234  ipython 170.py 
+ 1235  python
+ 1236  firefox
+ 1237  gnuplot
+ 1238  idle
+ 1239  gedit 1A0.c
+ 1240  firefox
+ 1241  nano
+ 1242  g++ inte.c
+ 1243  nano inte.c
+ 1244  g++ inte.c
+ 1245  nano inte.c
+ 1246  g++ inte.c
+ 1247  nano inte.c
+ 1248  g++ inte.c
+ 1249  nano inte.c
+ 1250  g++ inte.c
+ 1251  ./a.out
+ 1252  nano inte.c
+ 1253  g++ inte.c
+ 1254  ./a.out
+ 1255  nano inte.c
+ 1256  g++ inte.c
+ 1257  ./a.out
+ 1258  nano inte.c
+ 1259  g++ inte.c
+ 1260  ./a.out
+ 1261  nano inte.c
+ 1262  g++ inte.c
+ 1263  ./a.out
+ 1264  nano inte.c
+ 1265  g++ inte.c
+ 1266  ./a.out
+ 1267  nano inte.c
+ 1268  ./a.out
+ 1269  idle
+ 1270  /a.out
+ 1271  ./a.out./a.out
+ 1272  mkdir Darbi
+ 1273  idle
+ 1274  nano dg1B.py
+ 1275  nano 1B1.py
+ 1276  idle
+ 1277  firefox
+ 1278  ssh -X x161REB052@213.175.92.22
+ 1279  bnuplot
+ 1280  gnuplot
+ 1281  plot "91.dat" using 1:2 lines
+ 1282  gnuplot
+ 1283  ls - lt
+ 1284  ls -lt
+ 1285  nano ./91.dat
+ 1286  ssh -X x161REBM052@213.175.92.22
+ 1287  ssh
+ 1288  idle
+ 1289  exit
+ 1290  firefox
+ 1291  virtualbox 
+ 1292  ssh -X x151REB090@213.175.92.22
+ 1293  nano ggg.c
+ 1294  firefox
+ 1295  idle
+ 1296  ssh -X x161REB140@213.175.92.22
+ 1297  firefox
+ 1298  gnu plot
+ 1299  gnu
+ 1300  idle &
+ 1301  -X x151REB090 @213.175.92.22
+ 1302  -X x151REB 090 @213.175.92.22
+ 1303  -X x151REB 090@213.175.92.22
+ 1304  -X x151REB090@213.175.92.22
+ 1305  -X x151REB @213.175.92.22
+ 1306  ssh -X x151REB090@213.175.92.22
+ 1307  idle &
+ 1308  ssh -X x151REB090@213.175.92.22
+ 1309  ssh -X x161REB140@231.175.92.22
+ 1310  ssh -X x161REB140@213.175.92.22
+ 1311  firefox
+ 1312  ssh -X x151REB090@213.175.92.22
+ 1313  nano
+ 1314  g++ moda.c
+ 1315  nano moda.c
+ 1316  g++ moda.c
+ 1317  ./a.out
+ 1318  ./91.dat
+ 1319  ./a.out
+ 1320  ./91.dat
+ 1321  ls - lt
+ 1322  ls -lt
+ 1323  nano 91.dat
+ 1324  gnuplot 91.dat
+ 1325  nano 91.dat
+ 1326  nano
+ 1327  idle
+ 1328  firefox
+ 1329  ssh -X x161REB140@213.175.29.22
+ 1330  ssh -X x161REB140@213.175.92.22
+ 1331  firefox
+ 1332  hexdump -C meta.bin
+ 1333  idle &
+ 1334  ssh -X x131RMC043@213.175.92.22
+ 1335  nano
+ 1336  g++ maskart.c
+ 1337  nano maskart.c
+ 1338  g++ maskart.c
+ 1339  nano maskart.c
+ 1340  g++ maskart.c
+ 1341  ./a.out
+ 1342  nano maskart.c
+ 1343  g++ maskart.c
+ 1344  ./a.out
+ 1345  nano maskart.c
+ 1346  g++ maskart.c
+ 1347  ./a.out
+ 1348  nano maskart.c
+ 1349  g++ maskart.c
+ 1350  ./a.out
+ 1351  nano maskart.c
+ 1352  g++ maskart.c
+ 1353  ./a.out
+ 1354  g++ maskart.c
+ 1355  nano maskart.c
+ 1356  g++ maskart.c
+ 1357  ./a.out
+ 1358  nano 66.c
+ 1359  g++ 66.c
+ 1360  nano 66.c
+ 1361  g++ 66.c
+ 1362  nano 66.c
+ 1363  g++ 66.c
+ 1364  nano 66.c
+ 1365  g++ 66.c
+ 1366  nano 66.c
+ 1367  g++ 66.c
+ 1368  nano 66.c
+ 1369  g++ 66.c
+ 1370  nano 66.c
+ 1371  g++ 66.c
+ 1372  nano 66.c
+ 1373  g++ 66.c
+ 1374  ./a.out
+ 1375  nano 66.c
+ 1376  g++ 66.c
+ 1377  ./a.out
+ 1378  nano 66.c
+ 1379  g++ 66.c
+ 1380  ./a.out
+ 1381  nano 66.c
+ 1382  g++ 66.c
+ 1383  ./a.out
+ 1384  ls -lt
+ 1385  ./91.dat
+ 1386  nano 91.dat
+ 1387  gnuplot
+ 1388  firefoc
+ 1389  firefox
+ 1390  idle
+ 1391  firefox
+ 1392  idle
+ 1393  nano
+ 1394  ssh -X x161REB056@213.175.92.22
+ 1395  ssh -X x161REB053@213.175.92.22
+ 1396  firefox
+ 1397  ssh -X x161REB055@213.175.92.22
+ 1398  ssh -X x161REB053@213.175.92.22
+ 1399  ssh -X x151REB090@213.175.92.22
+ 1400  ssh -X x101REX308
+ 1401  ssh -X x101REX308@213.175.92.22
+ 1402  ssh -X x151REB090@213.175.92.22
+ 1403  ssh -X x161REB140@213.175.92.22
+ 1404  ssh -X x161REB114@213.175.92.22
+ 1405  ssh -X 161REB140
+ 1406  ssh -X x161REB140
+ 1407  ssh -X x161REB140@213.175.92.22
+ 1408  terminal
+ 1409  firefox
+ 1410  ssh -X 161REB138@213.175.92.22
+ 1411  ssh -X x161REB140@213.175.92.22
+ 1412  ssh -X x161REB138@213.175.92.22
+ 1413  firefox
+ 1414  ssh -X x161REB140@213.175.92.22
+ 1415  firefox
+ 1416  ssh -X x161REB140@213.175.92.22
+ 1417  ssh -X x161@REB053@213.175.92.22
+ 1418  firefox
+ 1419  ssh -X x161REB053@213.175.92.22
+ 1420  ssh -X x161REB053@213.175.92.22
+ 1421  firefox
+ 1422  ssh -X x161REB233@213.175.92.22
+ 1423  ssh -X x161REB233@213.175.92.22
+ 1424  python3
+ 1425  man python
+ 1426  python -v
+ 1427  ls
+ 1428  vim 200.py
+ 1429  vim
+ 1430  sudo apr install vim
+ 1431  cat 100py
+ 1432  cat 100.py
+ 1433  ls
+ 1434  cat 170.py
+ 1435  clear
+ 1436  PS1="$ "
+ 1437  a=[1,2,3]
+ 1438  b=a
+ 1439  a == b
+ 1440  b = a
+ 1441  python
+ 1442  firefox
+ 1443  ssh
+ 1444  ssh -X 161REB178@213.175.92.22
+ 1445  ssh
+ 1446  ssh -X x161REB178@213.175.92.22
+ 1447  firefox
+ 1448  chromium-browser
+ 1449  ssh
+ 1450  ssh -X x161REB178@213.175.92.22
+ 1451  &firefox
+ 1452  & firefox
+ 1453  firefox
+ 1454  logout
+ 1455  firefox
+ 1456  exit
+ 1457  firefox
+ 1458  firefox &
+ 1459  cd home
+ 1460  cd user
+ 1461  cd images
+ 1462  ls -l
+ 1463  ssh -X x161REB181@213.175.92.22
+ 1464  -ssh -X x161REB181@213.175.92.22
+ 1465  -ssh -X x991REB181@213.175.92.22
+ 1466  ssh -X x991REB181@213.175.92.22
+ 1467  ssh -X x161REB181@213.175.92.22
+ 1468  exit
+ 1469  firefox
+ 1470  ssh
+ 1471  -x X 161REB178@213.175.92.22
+ 1472  ssh -X x161REB178@213.175.92.22
+ 1473  exit
+ 1474  firefox
+ 1475  chromium-browser
+ 1476  ssh
+ 1477  ssh -X x161REB178@213.175.92.22
+ 1478  cp documents/rolland.rtf /media/CROLLAND
+ 1479  mount
+ 1480  firefox
+ 1481  sudo apt-get install matlab
+ 1482  123
+ 1483  sudo apt-get install matlab
+ 1484  matlab
+ 1485  firefox
+ 1486  ssh -X x151REB189@213.175.92.22
+ 1487  firefox &
+ 1488  cd documents/kuku/
+ 1489  vim index.html
+ 1490  vi index.html
+ 1491  cd documents/kuku/
+ 1492  vi index.html
+ 1493  ifconfig
+ 1494  ls
+ 1495  pwd
+ 1496  ls
+ 1497  find . -name hist.png
+ 1498  cd documents/
+ 1499  ls
+ 1500  ls *.png
+ 1501  mkdir kuku
+ 1502  mv *.png kuku/
+ 1503  cd kuku/
+ 1504  ls
+ 1505  python -m
+ 1506  python -m SimpleHTTPServer
+ 1507  ssh -X xtaso2213.175.92.37
+ 1508  ssh -X xtaso@213.175.92.37
+ 1509  ssh -X x161REB181@213.175.92.22
+ 1510  ssh
+ 1511  ssh -X x161REB178@213.175.92.22
+ 1512  ssh
+ 1513  ssh -X x161REB178@213.175.92.22
+ 1514  firefox
+ 1515  google-chrome
+ 1516  chrome-browser
+ 1517  ssh
+ 1518  ssh -X x161REB178@213.175.92.22
+ 1519  ssh
+ 1520  ssh -X x161REB178@213.175.92.37
+ 1521  firefox
+ 1522  /bin/matlab
+ 1523  mstlsb
+ 1524  matlab
+ 1525  firefox
+ 1526  ssh -X x151REB189@213.175.92.22
+ 1527  snapshot
+ 1528  ksnapshot
+ 1529  ssh -X x161REB181@213.175.92.22
+ 1530  firefox
+ 1531  snapshot
+ 1532  firefox
+ 1533  ssh -X x161REB181@213.175.92.22
+ 1534  firefox
+ 1535  ssh
+ 1536  ssh -X x161REB178@213.175.92.22
+ 1537  google-chrome
+ 1538  firefox
+ 1539  ssh -X x161REB178@213.175.92.22
+ 1540  ssh
+ 1541  ssh -X x161REB178@213.175.92.22
+ 1542  ssh
+ 1543  ssh -X x161REB178@213.175.92.37
+ 1544  ssh
+ 1545  ssh -X x161REB178@213.175.92.37
+ 1546  firefox
+ 1547  matlab
+ 1548  ssh -X x161REB147@213.175.92.22
+ 1549  matlab
+ 1550  ssh -X x161REB147@213.175.92.22
+ 1551  firefox
+ 1552  labors
+ 1553  ssh -X x161REB147@213.175.92.22
+ 1554  ssh -X x151REB189@213.175.92.22
+ 1555  ssh -X x151REB189@213.175.92.33
+ 1556  ssh -X x151REB189@213.175.92.37
+ 1557  firefox
+ 1558  firefox
+ 1559  ssh -X x151REB189@213.175.92.33
+ 1560  firefox
+ 1561  ssh -X x161REB181@213.175.92.22
+ 1562  ssh
+ 1563  ssh -X x161REB178@213.175.92.22
+ 1564  firefox
+ 1565  ssh
+ 1566  ssh -X x161REB178@213.175.92.37
+ 1567  ssh
+ 1568  ssh -X x161REB178@213.175.92.37
+ 1569  exit
+ 1570  firefox
+ 1571  matlab
+ 1572  firefox
+ 1573  ssh -X xmate@213.175.92.22
+ 1574  firefox&
+ 1575  ssh -X x161REB181@213.175.92.22
+ 1576  ssh -X x161REB181@213.175.92.22
+ 1577  ssh
+ 1578  ssh -X x161REB178@213.175.92.22
+ 1579  ssh
+ 1580  ssh -X x161REB178@213.175.92.22
+ 1581  ssh
+ 1582  ssh -X x161REB178@213.175.92.22
+ 1583  ssh
+ 1584  ssh -X x161REB178@213.175.92.37
+ 1585  ssh
+ 1586  ssh -X x161REB178@213.175.92.22
+ 1587  ssh
+ 1588  ssh -X x161REB178@213.175.92.37
+ 1589  firefox
+ 1590  matlab
+ 1591  firefox
+ 1592  firefox &
+ 1593  ans
+ 1594  rand
+ 1595  matlab
+ 1596  exit
+ 1597  ssh -X x151REB189@213.175.92.22
+ 1598  firefox &
+ 1599  ssh -X x161REB075@213.175.92.37
+ 1600  ssh -X x161REB181@213.175.92.22
+ 1601  exit
+ 1602  firefox
+ 1603  ssh
+ 1604  ssh -X x161REB178@213.175.92.22
+ 1605  ssh
+ 1606  ssh -X x161REB178
+ 1607  ssh
+ 1608  ssh -X x161REB178@213.175.92.22
+ 1609  ssh
+ 1610  ssh -X x161REB178@213.175.92.37
+ 1611  firefox
+ 1612  matlab 
+ 1613  firefox &
+ 1614  ssh -X xmate@213.175.92.22
+ 1615  matlab
+ 1616  exit
+ 1617  firefox
+ 1618  exit
+ 1619  firefox
+ 1620  snapshot
+ 1621  ksnapshot
+ 1622  ssh -X x161REB181@213.175.92.22
+ 1623  ssh
+ 1624  ssh x161REB178@213.175.92.22
+ 1625  ssh
+ 1626  ssh -X x161REB178@213.175.92.22
+ 1627  firefox
+ 1628  ssh 
+ 1629  ssh -X x161REB178@213.175.92.37
+ 1630  firefox&exit
+ 1631  su rtu
+ 1632  firefox&
+ 1633  firefox
+ 1634  fuck you i wont do what you tell me
+ 1635  system failure
+ 1636  fuck you system\\
+ 1637  The system has failed
+ 1638  The time has ended
+ 1639  Astronaut has landed
+ 1640  Proud man and gold are suspended
+ 1641  Fuck you 
+ 1642  fuck you
+ 1643  die system
+ 1644  fuck you 
+ 1645  fuck you
+ 1646  fuck you 
+ 1647  fuck you shity crap
+ 1648  DIE
+ 1649  ssh -X x151REB189@213.175.92.22
+ 1650  firefox
+ 1651  ssh -X x161REB181@213.175.92.22
+ 1652  ssh
+ 1653  ssh -X x161REB178@213.175.92.22
+ 1654  firefox
+ 1655  ssh
+ 1656  ssh -X x161REB178@213.175.92.22
+ 1657  ssh
+ 1658  ssh -X x161REB178@213.175.92.22
+ 1659  ssh
+ 1660  ssh -X x161REB178@213.175.92.37
+ 1661  ssh
+ 1662  ssh -X x161REB178@213.175.92.37
+ 1663  ssh
+ 1664  ssh -X x161REB178@213.175.92.37
+ 1665  cd
+ 1666  ssh
+ 1667  ssh -X x161REB178@213.175.92.37
+ 1668  ssh
+ 1669  ssh -X x161REB178@213.175.92.37
+ 1670  firefox
+ 1671  ssh -X x16\1REB178@213.175.92.37
+ 1672  ssh -X x161REB178@213.175.92.37
+ 1673  ps aux
+ 1674  ssh -X x163NEB002@213.175.92.22
+ 1675  exit
+ 1676  ssh -X x163NEB002@213.175.92.22
+ 1677  exit
+ 1678  firefox &
+ 1679  ssh -X x161REB181@213.175.92.22
+ 1680  exit
+ 1681  ssh
+ 1682  ssh -X x161REB178@213.175.92.22
+ 1683  firefox
+ 1684  ssh -X x161REB107@213.175.92.22
+ 1685  exit
+ 1686  ssh
+ 1687  ssh -X x161REB178@213.175.92.37
+ 1688  firefox
+ 1689  chromium-browser
+ 1690  firefox
+ 1691  chromium-browser
+ 1692  matlab
+ 1693  firefox &
+ 1694  firefox
+ 1695  ssh -X x163NEB002@213.175.92.22
+ 1696  ssh -X x161REB181@213.175.92.22
+ 1697  exit
+ 1698  ssh
+ 1699  ssh -x X 161REB178@213.175.92.22
+ 1700  ssh
+ 1701  ssh -X x161REB178@213.175.92.22
+ 1702  firefox
+ 1703  ssh
+ 1704  ssh -X x161REB178@213.175.92.37
+ 1705  inbox.lv
+ 1706  firefox
+ 1707  ssh -X x161REB181@213.175.92.22
+ 1708  exit
+ 1709  ssh
+ 1710  ssh 
+ 1711  ssh -X x161REB178@213.175.92.22
+ 1712  firefox
+ 1713  google-chromium
+ 1714  firefox
+ 1715  ssh -X x161REB134@213.175.92.22
+ 1716  ssh
+ 1717  ssh -X x161REB178@213.175.92.22
+ 1718  ssh
+ 1719  ssh -X x161REB178@213.175.92.22
+ 1720  firefox
+ 1721  ssh
+ 1722  ssh -X x161REB178
+ 1723  -X x161REB178@213.175.92.22
+ 1724  111
+ 1725  ssh
+ 1726  ssh -X x161REB178@213.175.92.22
+ 1727  firefox
+ 1728  ssh -X x163NEB002@213.175.92.22
+ 1729  exit
+ 1730  firefox --help
+ 1731  firefox -new-instance
+ 1732  firefox http://www.google.lv
+ 1733  x161REB178@213.175.92.22
+ 1734  -X x161REB178@213.175.92.22
+ 1735  ssh
+ 1736  ssh -X x161REB178@213.175.92.22
+ 1737  ssh
+ 1738  ssh x161REB178@213.175.92.22
+ 1739  x161REB178@213.175.92.22
+ 1740  ssh
+ 1741  ssh -X x161REB178@213.175.92.22
+ 1742  firefox
+ 1743  fireofx
+ 1744  firefox
+ 1745  ssh
+ 1746  ssh -X x161REB178@213.175.92.37
+ 1747  ls
+ 1748  ssh -X x161REB071@213.175.92.37
+ 1749  exit
+ 1750  firefox &
+ 1751  ls
+ 1752  conver Screenshot\ -\ 04192017\ -\ 11\:51\:20\ AM.png Ard.eps
+ 1753  convert Screenshot\ -\ 04192017\ -\ 11\:51\:20\ AM.png Ard.eps
+ 1754  exit
+ 1755  matlab
+ 1756  ssh
+ 1757  ssh -X x161REB178@213.175.92.37
+ 1758  firefox
+ 1759  exit
+ 1760  ssh
+ 1761  ssh -X x161REB178@213.175.92.22
+ 1762  ssh
+ 1763  ssh -X x161REB178@213.175.92.37
+ 1764  firefox
+ 1765  firefox &firefox &
+ 1766  firefox &
+ 1767  exit
+ 1768  ssh -X x163NEB002@213.175.92.37
+ 1769  ssh -X x163NEB002@213.175.92.22
+ 1770  firefox &
+ 1771  ssh -X x161REB071@213.175.92.22
+ 1772  ls
+ 1773  exit
+ 1774  ssh -X x161REB071@213.175.92.22
+ 1775  exit
+ 1776  firefox &
+ 1777  exit
+ 1778  firefox
+ 1779  matlab
+ 1780  ssh -X x151REB006@213.175.92.22
+ 1781  firefox
+ 1782  ssh -X151REB006@213.175.92.22
+ 1783  ssh -X x151REB006@213.175.92.22
+ 1784  ssh -X x151REB006
+ 1785  ssh -X x151REB006@213.175.92.22
+ 1786  firefox
+ 1787  firefox &
+ 1788  exit
+ 1789  cmd
+ 1790  tracert -d 192.168.1.1
+ 1791  uname -r
+ 1792  lsb_release
+ 1793  cat /etc/*-release
+ 1794  echo $0
+ 1795  firefox
+ 1796  man echo
+ 1797  pwd
+ 1798  whoami
+ 1799  who
+ 1800  user pts/0
+ 1801  ls
+ 1802  ls -l
+ 1803  ls -a
+ 1804  ls -la
+ 1805  ls -al
+ 1806  LS -AL
+ 1807  ls- -al
+ 1808  ls -al
+ 1809  ls
+ 1810  cd Documents/
+ 1811  cd Document
+ 1812  cd Documnents\$ pwd
+ 1813  $ cf Documents/
+ 1814  /Documents$ pwd
+ 1815  ls
+ 1816  /Documents$ pwd
+ 1817  /Documents$ ls
+ 1818  ls -la
+ 1819  pwd
+ 1820  cd .
+ 1821  pwd
+ 1822  cd .
+ 1823  pwd
+ 1824  cd ..
+ 1825  pwd
+ 1826  cd ..
+ 1827  pwd
+ 1828  cd.
+ 1829  cd ..
+ 1830  pwd
+ 1831  cd ~
+ 1832  pwd
+ 1833  ~/
+ 1834  cd ..
+ 1835  pwd
+ 1836  cd
+ 1837  pwd
+ 1838  cd
+ 1839  pwd
+ 1840  fireox
+ 1841  firefox
+ 1842  pwd
+ 1843  darbi$ history > history.txt
+ 1844  history
+ 1845  git init
+ 1846  exit
+ 1847  uname-r
+ 1848  lsb_release
+ 1849  cat /etc/*-release
+ 1850  echo$0
+ 1851  pwd
+ 1852  ls
+ 1853  LS
+ 1854  pwd
+ 1855  cd Documents/
+ 1856  Dokuments$ pwd
+ 1857  pwd
+ 1858  cd..
+ 1859  pwd
+ 1860  ls
+ 1861  vvvvvvvvvvv
+ 1862  vvv
+ 1863  vvvvvvvvvv
+ 1864  v
+ 1865  mkdir darbi
+ 1866  cd/
+ 1867  uname -r
+ 1868  lsb_release
+ 1869  cat /etc/*-release
+ 1870  ech $0
+ 1871  echo $0
+ 1872  pwd
+ 1873  whoami
+ 1874  who
+ 1875  q0
+ 1876  uname -r
+ 1877  man uname
+ 1878  history
+ 1879  whoami
+ 1880  pwd
+ 1881  ls
+ 1882  ls -l
+ 1883  ls -a
+ 1884  ls -la
+ 1885  pwd
+ 1886  ls
+ 1887  cd Documents/
+ 1888  cd documents/
+ 1889  pwd
+ 1890  ls
+ 1891  ls -la
+ 1892  pwd
+ 1893  ls
+ 1894  ls -la
+ 1895  cd.
+ 1896  pwd
+ 1897  cd .
+ 1898  cd ..
+ 1899  pwd
+ 1900  cd ..
+ 1901  cd
+ 1902  cd .
+ 1903  pwd
+ 1904  cd ..
+ 1905  pwd
+ 1906  cd ..
+ 1907  pwd
+ 1908  ls
+ 1909  idm
+ 1910  id
+ 1911  cat /etc/passed
+ 1912  cat /etc/passid
+ 1913  ps
+ 1914  ps -ef
+ 1915  xterm &
+ 1916  pwd
+ 1917  man pwd
+ 1918  pwd --version
+ 1919  pwd -l
+ 1920  pwd 
+ 1921  ls
+ 1922  pwd
+ 1923  ls
+ 1924  l
+ 1925  sls]
+ 1926  sl
+ 1927  s
+ 1928  l
+ 1929  s
+ 1930  sl
+ 1931  sls
+ 1932  ls
+ 1933  s
+ 1934  pwd
+ 1935  cd..
+ 1936  cd ..
+ 1937  ls
+ 1938  cd
+ 1939  ls
+ 1940  ls -l
+ 1941  cd
+ 1942  touch  aaaa1
+ 1943  ls
+ 1944  ls -l
+ 1945  cp aaaa1 bbb
+ 1946  ls -l
+ 1947  cp aaa
+ 1948  cp aaaa1 /home /user /desktop/ccc
+ 1949  ls -l
+ 1950  touch aaa
+ 1951  cp aaa bbb
+ 1952  ls -l
+ 1953  ls /
+ 1954  .
+ 1955  mv aaa xxx
+ 1956  ls
+ 1957  pwd
+ 1958  history
+ 1959  ls
+ 1960  ls|grep "c"
+ 1961  ls> rtu
+ 1962  ls
+ 1963  ls -l
+ 1964  delete
+ 1965  cat rtu
+ 1966  cat document
+ 1967  cat document/yyy
+ 1968  cat desktope/ yyy
+ 1969  echo sveiks > rtu
+ 1970  cat rtu
+ 1971  ssh x171REB169 
+ 1972  ssh x171reb179@219.175.92.22
+ 1973  yoyo
+ 1974  ssh x171REB169 @213.175.92.22
+ 1975  ssh x171REB169 @ 213.175.92.22
+ 1976  logoout
+ 1977  sswh
+ 1978  ssh
+ 1979  who
+ 1980  ssh x171REB169@213.175.92.22
+ 1981  ls
+ 1982  who
+ 1983  who -dupsis > rezultats.txt
+ 1984  who
+ 1985  who -asaad > dupsis.txt
+ 1986  ls
+ 1987  ssh x171REB169@213.175.92.22
+ 1988  ssh X171REB169@213.175.92.22
+ 1989  ssh x171REB169@213.175.92.22
+ 1990  exit
+ 1991  uname -r
+ 1992  lsb_release
+ 1993  cat /etc/*release
+ 1994  echo $0
+ 1995  pwd
+ 1996  whoami
+ 1997  who
+ 1998  ls
+ 1999  ls -la
+ 2000  man ls
+ 2001  cd
+ 2002  cd /download
+ 2003  cd /downloads
+ 2004  cd downloads
+ 2005  cd ..
+ 2006  whoami
+ 2007  pwd
+ 2008  ls
+ 2009  ls -l
+ 2010  cd Documents/
+ 2011  cd Documents
+ 2012  cd documents
+ 2013  cd ..
+ 2014  pwd
+ 2015  ls -la
+ 2016  cd ..
+ 2017  pwd
+ 2018  ls -la
+ 2019  cd ..
+ 2020  pwd
+ 2021  ls -la
+ 2022  cd ..
+ 2023  pwd
+ 2024  cd ~
+ 2025  pwd
+ 2026  cd /
+ 2027  pwd
+ 2028  cd /home/user/
+ 2029  pwd
+ 2030  cd /
+ 2031  pwd
+ 2032  cd
+ 2033  pwd
+ 2034  ls
+ 2035  mkdir darbi3
+ 2036  ls -la
+ 2037  ls
+ 2038  pwd
+ 2039  ls
+ 2040  ls -l
+ 2041  cd darbi3
+ 2042  pwd
+ 2043  ls -la
+ 2044  history
+ 2045  history > history.txt
