@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "File Name: $0"
+echo "First Parameter : $1ad"
+echo "Second Parametr : $2asd"
+echo "Quoted Values: $@asd"
+echo "Quoted Values: $*asd"
+echo "Total Number of Parameters : $#"
