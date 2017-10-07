@@ -1,5 +1,6 @@
 #!/bin/bash
 
+if[-f /dm/DMI/test]; then
 echo "File Name: $0"
 echo "First Parameter : $1ad"
 echo "Second Parametr : $2asd"
