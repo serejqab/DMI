@@ -1,26 +1,53 @@
 # -*- coding: utf-8 -*-
-
 from math import cos
 
-def mans_cosinuss(x)
+print"   500    "
+print"----------"
+print"\ "
+print" \                k    2*k             "
+print"  \          (-1)   * x                 "
+print"   |        --------------   = cos(x)   "
+print"  /             (2*k)!                 "
+print" /                                      "
+print"/"
+print"----------"
+print"   k=0    "
+
+print"|\ "
+print"| \ "
+print"|  \ "
+print"|  /  ___       (-1)*x^2                 "
+print"| /   ___ -------------------"
+print"|/           (2*k-1)*(2*k)"
+print"|\ "
+print"| \ "
+
+
+
+
+def mans_cosinuss(x):
     k = 0
     a = (-1)**0*x**1/(1)
     S = a
-    print "Izdr. no liet.f. a0 = %6.2f S0 = %6.2f"%(a,S)
+    #print "Izdruka no liet.f. a0 = %6.2f S0 = %6.2f"%(a,S)
 
-
-
-while k < 500
-      k = k + 1
-      a = a * (-1) *x**2/((2*k)
-      S = S + a
-    print "Izdruka no liet.f. a%d = %6.2f S%d = %6.2f"%(k,a,k,S)
+    while k < 500: 
+        k = k + 1
+        R = (-1) * x**2/((2*k-1)*(2*k))
+        a = a * R
+        S = S + a
+        if k == 1:
+            print "Izdruka no liet.f. a%d = %6.2f S%d = %6.2f"%(k,a,k,S)
+        elif k == 499:
+            print "Izdruka no liet.f. a%d = %6.2f S%d = %6.2f"%(k,a,k,S)
+        elif k == 500:
+            print "Izdruka no liet.f. a%d = %6.10f S%d = %6.10f"%(k,a,k,S) 
     print "Izdruka no liet.f. Beigas!"
     return S
 
 
-x = 1. * input("Izdruka no galv. f. Lietotaj, ludzu, ievadi argumentu (x): ")
+x = 1. *  input("Izdruka no galv.f. Lietotaj, ludzu, ievadi argumentu (x): ")
 y = cos(x)
-print "Izdruka no galv. f. standarta cos(%.2f) = %.2f"%(x,y)
-yy = mans_cosinuss(x) #funkcijas izpilde un piešķiršana
-print "Izdruka no galv. f. mans cos(%.2f) = %.2f"%(x,yy) 
+print "Izdruka no galv.f. standarta sin(%.2f) = %.2f"%(x,y)
+yy = mans_cosinuss(x) #funkcija izpilde un piešķiršana
+print "Izdruka no galv.f. mans_sinuss(%.2f) = %.2f"%(x,yy)
