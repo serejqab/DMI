@@ -1,11 +1,11 @@
- # -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 import numpy as np 
 import matplotlib.pyplot as plt #2
 
-def mana_funkcija(x):
-    k = 0
-    a = (-1)**0*x**2*0/(1)
+def mans_funkcija(x):
+    k = 1
+    a = (-1)**2*x**2/(2*2)
     S = a
 
     while k < 500: 
@@ -18,7 +18,7 @@ a=0
 b=20
 delta_x = 0.5
 x = np.arange(a,b,delta_x)
-y = mana_funkcija(x)
+y = mans_funkcija(x)
 plt.plot(x,y)
 plt.grid()
 
