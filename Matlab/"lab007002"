@@ -1,0 +1,1258 @@
+edit
+%% meklet skaitli ar nutona
+syms i0 a E UR R
+diff(i0*(exp(a*(E-UR))-1)-UR/R)
+ 
+ans =
+ 
+exp(a*(E - UR)) - 1
+ 
+diff(i0*(exp(a*(E-UR))-1)-UR/R,UR)
+ 
+ans =
+ 
+- 1/R - a*i0*exp(a*(E - UR))
+ 
+edit
+epsilon = 1e-3;
+while delta > epsilon
+
+end
+{Undefined function or variable 'delta'.
+} 
+newmet5
+{Undefined function or variable 'delta'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('newmet5', '/home/user/newmet5.m', 3)" style="font-weight:bold">newmet5</a> (<a href="matlab: opentoline('/home/user/newmet5.m',3,0)">line 3</a>)
+while delta > epsilon
+} 
+newmet5
+{Undefined function or variable 'delta'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('newmet5', '/home/user/newmet5.m', 3)" style="font-weight:bold">newmet5</a> (<a href="matlab: opentoline('/home/user/newmet5.m',3,0)">line 3</a>)
+while delta > epsilon
+} 
+newmet5
+
+fx =
+
+   -3.7183
+
+delta
+
+delta =
+
+   -0.4621
+
+delta
+
+delta =
+
+   -0.4621
+
+newmet5
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+x0 =
+
+    0.4621
+
+
+fx =
+
+   -2.7124
+
+
+x0 =
+
+    0.5544
+
+
+fx =
+
+   -2.5615
+
+
+x0 =
+
+    0.5571
+
+
+fx =
+
+   -2.5571
+
+
+x0 =
+
+    0.5571
+
+newmet5
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+x0 =
+
+    0.4621
+
+
+fx =
+
+   -2.7124
+
+
+x0 =
+
+    0.5544
+
+
+fx =
+
+   -2.5615
+
+
+x0 =
+
+    0.5571
+
+
+fx =
+
+   -2.5571
+
+
+x0 =
+
+    0.5571
+
+newmet5
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+x0 =
+
+    0.4621
+
+
+fx =
+
+   -2.7124
+
+
+x0 =
+
+    0.5544
+
+
+fx =
+
+   -2.5615
+
+
+x0 =
+
+    0.5571
+
+
+fx =
+
+   -2.5571
+
+
+x0 =
+
+    0.5571
+
+newmet5
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+x0 =
+
+    0.4621
+
+
+fx =
+
+   -2.7124
+
+
+x0 =
+
+    0.5544
+
+
+fx =
+
+   -2.5615
+
+
+x0 =
+
+    0.5571
+
+
+fx =
+
+   -2.5571
+
+
+x0 =
+
+    0.5571
+
+newmet5
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+x0 =
+
+    0.4621
+
+
+fx =
+
+   -2.7124
+
+
+x0 =
+
+    0.5544
+
+
+fx =
+
+   -2.5615
+
+
+x0 =
+
+    0.5571
+
+
+fx =
+
+   -2.5571
+
+
+x0 =
+
+    0.5571
+
+newmet5
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+x0 =
+
+    0.4621
+
+
+fx =
+
+   -2.7124
+
+
+x0 =
+
+    0.5544
+
+
+fx =
+
+   -2.5615
+
+
+x0 =
+
+    0.5571
+
+
+fx =
+
+   -2.5571
+
+
+x0 =
+
+    0.5571
+
+newmet5
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+x0 =
+
+    0.4621
+
+
+fx =
+
+   -2.7124
+
+
+x0 =
+
+    0.5544
+
+
+fx =
+
+   -2.5615
+
+
+x0 =
+
+    0.5571
+
+
+fx =
+
+   -2.5571
+
+
+x0 =
+
+    0.5571
+
+newmet5
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+x0 =
+
+    0.4621
+
+
+fx =
+
+   -2.7124
+
+
+x0 =
+
+    0.5544
+
+
+fx =
+
+   -2.5615
+
+
+x0 =
+
+    0.5571
+
+
+fx =
+
+   -2.5571
+
+
+x0 =
+
+    0.5571
+
+newmet5
+<a href="matlab: opentoline('/home/user/newmet5.m',2,1)">2   </a>if nargin == 0
+10
+
+ans =
+
+    10
+
+,k
+{Undefined function or variable 'k'.
+} 
+newmet5(0,1e-6)
+<a href="matlab: opentoline('/home/user/newmet5.m',2,1)">2   </a>if nargin == 0
+nargin
+
+ans =
+
+     2
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+
+fx =
+
+   -3.7183
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+
+fx =
+
+   -3.7183
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+
+x0 =
+
+    0.4621
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+
+fx =
+
+   -2.7124
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+
+x0 =
+
+    0.5544
+
+
+j
+
+ans =
+
+   0.0000 + 1.0000i
+
+k
+{Undefined function or variable 'k'.
+} 
+lab5.m
+{Undefined variable "lab5" or class "lab5.m".
+} 
+if system_dependent('IsDebugMode')==1, dbcont; end
+
+fx =
+
+   -2.5615
+
+
+x0 =
+
+    0.5571
+
+
+fx =
+
+   -2.5571
+
+
+x0 =
+
+    0.5571
+
+
+fx =
+
+   -2.5571
+
+
+x0 =
+
+    0.5571
+
+if system_dependent('IsDebugMode')==1, dbcont; end
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+x0 =
+
+    0.4621
+
+
+fx =
+
+   -2.7124
+
+
+x0 =
+
+    0.5544
+
+
+fx =
+
+   -2.5615
+
+
+x0 =
+
+    0.5571
+
+
+fx =
+
+   -2.5571
+
+
+x0 =
+
+    0.5571
+
+newmet5
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+x0 =
+
+    0.4621
+
+
+fx =
+
+   -2.7124
+
+
+x0 =
+
+    0.5544
+
+
+fx =
+
+   -2.5615
+
+
+x0 =
+
+    0.5571
+
+
+fx =
+
+   -2.5571
+
+
+x0 =
+
+    0.5571
+
+lab5
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('newmet5')" style="font-weight:bold">newmet5</a>
+Too many output arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab5', '/home/user/lab5.m', 6)" style="font-weight:bold">lab5</a> (<a href="matlab: opentoline('/home/user/lab5.m',6,0)">line 6</a>)
+    Ur = newmet5;
+} 
+lab5
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+x0 =
+
+    0.4621
+
+
+fx =
+
+   -2.7124
+
+
+x0 =
+
+    0.5544
+
+
+fx =
+
+   -2.5615
+
+
+x0 =
+
+    0.5571
+
+
+fx =
+
+   -2.5571
+
+
+x0 =
+
+    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+if system_dependent('IsDebugMode')==1, dbcont; end
+
+Urt =
+
+    0.5571
+
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+x0 =
+
+    0.4621
+
+
+fx =
+
+   -2.7124
+
+
+x0 =
+
+    0.5544
+
+
+fx =
+
+   -2.5615
+
+
+x0 =
+
+    0.5571
+
+
+fx =
+
+   -2.5571
+
+
+x0 =
+
+    0.5571
+
+if system_dependent('IsDebugMode')==1, dbcont; end
+
+Urt =
+
+    0.5571    0.5571
+
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -2.7124
+
+
+fx =
+
+   -2.5615
+
+
+fx =
+
+   -2.5571
+
+dbquit
+lab5
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -2.7124
+
+
+fx =
+
+   -2.5615
+
+
+fx =
+
+   -2.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+if system_dependent('IsDebugMode')==1, dbcont; end
+
+Urt =
+
+    0.5571
+
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -2.7124
+
+
+fx =
+
+   -2.5615
+
+
+fx =
+
+   -2.5571
+
+dbquit
+lab5
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -2.7124
+
+
+fx =
+
+   -2.5615
+
+
+fx =
+
+   -2.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+if system_dependent('IsDebugMode')==1, dbcont; end
+
+Urt =
+
+    0.5571
+
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -2.7124
+
+
+fx =
+
+   -2.5615
+
+
+fx =
+
+   -2.5571
+
+dbquit
+lab5
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -2.7124
+
+
+fx =
+
+   -2.5615
+
+
+fx =
+
+   -2.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+if system_dependent('IsDebugMode')==1, dbcont; end
+
+Urt =
+
+    0.5571
+
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -2.7124
+
+
+fx =
+
+   -2.5615
+
+
+fx =
+
+   -2.5571
+
+if system_dependent('IsDebugMode')==1, dbcont; end
+
+Urt =
+
+    0.5571    0.5571
+
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -2.7124
+
+
+fx =
+
+   -2.5615
+
+
+fx =
+
+   -2.5571
+
+if system_dependent('IsDebugMode')==1, dbcont; end
+
+Urt =
+
+    0.5571    0.5571    0.5571
+
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -3.7183
+
+
+fx =
+
+   -2.7124
+
+
+fx =
+
+   -2.5615
+
+
+fx =
+
+   -2.5571
+
+dbcont
+
+Urt =
+
+    0.5571    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+    0.5571    0.5571    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+  Columns 1 through 8
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Column 9
+
+    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+  Columns 1 through 8
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 9 through 10
+
+    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+  Columns 1 through 8
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 9 through 11
+
+    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+  Columns 1 through 8
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 9 through 12
+
+    0.5571    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+  Columns 1 through 8
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 9 through 13
+
+    0.5571    0.5571    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+  Columns 1 through 8
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 9 through 14
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+  Columns 1 through 8
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 9 through 15
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+  Columns 1 through 8
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 9 through 16
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+  Columns 1 through 8
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 9 through 16
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Column 17
+
+    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+  Columns 1 through 8
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 9 through 16
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 17 through 18
+
+    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+  Columns 1 through 8
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 9 through 16
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 17 through 19
+
+    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+  Columns 1 through 8
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 9 through 16
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 17 through 20
+
+    0.5571    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+  Columns 1 through 8
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 9 through 16
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 17 through 21
+
+    0.5571    0.5571    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+  Columns 1 through 8
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 9 through 16
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 17 through 22
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+  Columns 1 through 8
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 9 through 16
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 17 through 23
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   </a>    Urt=[Urt,Ur]
+dbcont
+
+Urt =
+
+  Columns 1 through 8
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 9 through 16
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+  Columns 17 through 24
+
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+
+<a href="matlab: opentoline('/home/user/lab5.m',7,1)">7   
